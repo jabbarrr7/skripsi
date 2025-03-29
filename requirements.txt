@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 numpy
 pandas
 streamlit
+=======
+numpy
+pandas
+streamlit
+>>>>>>> 5fbeba9 (Inisialisasi proyek optimasi penjadwalan)
